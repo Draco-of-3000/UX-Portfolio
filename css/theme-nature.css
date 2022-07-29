@@ -900,6 +900,7 @@ top: 1px;
 height: 55px;
 max-height: 55px;
 line-height: 53px;
+border-bottom: 1px solid #ccc;
 }
 .nav-bar .module,
 .nav-bar .module-group {
@@ -1488,7 +1489,7 @@ color: #fff;
 }
 nav.transparent .nav-utility,
 nav.transparent .nav-bar {
-
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 nav.transparent .module.widget-handle {
 border-left: 1px solid rgba(255, 255, 255, 0.2) !important;
@@ -1563,7 +1564,7 @@ border-left: 1px solid rgba(255, 255, 255, 0.2);
 }
 nav.bg-dark .nav-utility,
 nav.bg-dark .nav-bar {
-
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 nav.transparent.fixed.bg-dark {
 background: #292929;

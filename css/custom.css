@@ -16,9 +16,11 @@ nav.transparent .nav-bar {
     border-bottom: 0px !important;
 }
 
-.nav-bar {
-    height: 55px;
-    max-height: 55px;
-    line-height: 53px;
-    border-bottom: 0px !important;
+.menu {
+    padding-top: 30px;
 }
+
+.logo {
+    max-height: 200%;
+}
+
