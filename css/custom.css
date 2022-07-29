@@ -24,3 +24,6 @@ nav.transparent .nav-bar {
     max-height: 200%;
 }
 
+.image-xs {
+    max-height: 150px;
+}
