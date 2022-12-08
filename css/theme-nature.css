@@ -4269,7 +4269,7 @@ position: absolute;
 }
 .image-square {
 height: 50vw;
-max-height: 640px;
+max-height: 1080px;
 overflow: hidden;
 padding: 0;
 }
