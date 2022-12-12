@@ -16,14 +16,11 @@ nav.transparent .nav-bar {
     border-bottom: 0px !important;
 }
 
-.menu {
-    padding-top: 30px;
-}
-
 .logo {
-    max-height: 200%;
+    max-height: 110%;
 }
 
 .image-xs {
-    max-height: 150px;
+    max-height: 200px;
 }
+
