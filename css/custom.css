@@ -24,3 +24,6 @@ nav.transparent .nav-bar {
     max-height: 200px;
 }
 
+ion-icon {
+    color: black;
+  }
