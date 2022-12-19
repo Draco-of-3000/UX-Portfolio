@@ -27,3 +27,16 @@ nav.transparent .nav-bar {
 ion-icon {
     color: black;
   }
+
+
+.mb24 {
+    margin-top: 580px;
+}
+
+.btn-white, .image-bg .btn, .image-bg .btn:visited {
+    color: #fff;
+    border-color: #dc0e62 !important;
+}
+ .drebtn {
+    border-color: #fff !important
+ }
