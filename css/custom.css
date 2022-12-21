@@ -30,13 +30,13 @@ ion-icon {
 
 
 .mb24 {
-    margin-top: 500px;
+    margin-top: 350px;
 }
 
 .btn-white, .image-bg .btn, .image-bg .btn:visited {
     color: #fff;
-    border-color: #dc0e62 !important;
 }
  .drebtn {
     border-color: #fff !important
- }
+}
+

@@ -4268,8 +4268,7 @@ position: absolute;
 }
 }
 .image-square {
-height: 50vw;
-max-height: 1080px;
+height: 35vw;
 overflow: hidden;
 padding: 0;
 }
@@ -4827,7 +4826,7 @@ margin-bottom: 8px;
 margin-bottom: 16px;
 }
 .mb24 {
-margin-bottom: 24px;
+
 }
 .mb30 {
 margin-bottom: 30px;
