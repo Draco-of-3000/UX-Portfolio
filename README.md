@@ -1,2 +1,1 @@
-# First-Portfolio
-Creating my very first portfolio for my UX Design career
+first ux portfolio
